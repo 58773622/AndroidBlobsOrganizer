@@ -1,0 +1,18 @@
+[[package]]
+name = "pyelftools"
+version = "0.27"
+description = "Library for analyzing ELF files and DWARF debugging information"
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.9"
+content-hash = "96edf0486c919171a920900956ffa9c8f85d369e2d64f40e202d92e89dd60c67"
+
+[metadata.files]
+pyelftools = [
+    {file = "pyelftools-0.27-py2.py3-none-any.whl", hash = "sha256:5609aa6da1123fccfae2e8431a67b4146aa7fad5b3889f808df12b110f230937"},
+    {file = "pyelftools-0.27.tar.gz", hash = "sha256:cde854e662774c5457d688ca41615f6594187ba7067af101232df889a6b7a66b"},
+]
